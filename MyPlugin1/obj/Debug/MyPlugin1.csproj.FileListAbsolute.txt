@@ -1,0 +1,9 @@
+C:\Users\DELL\Desktop\ProfesyonelBackend\Plugin\MyPlugin1\bin\Debug\MyPlugin1.dll
+C:\Users\DELL\Desktop\ProfesyonelBackend\Plugin\MyPlugin1\bin\Debug\MyPlugin1.pdb
+C:\Users\DELL\Desktop\ProfesyonelBackend\Plugin\MyPlugin1\bin\Debug\Plugin.dll
+C:\Users\DELL\Desktop\ProfesyonelBackend\Plugin\MyPlugin1\bin\Debug\Plugin.pdb
+C:\Users\DELL\Desktop\ProfesyonelBackend\Plugin\MyPlugin1\obj\Debug\MyPlugin1.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\ProfesyonelBackend\Plugin\MyPlugin1\obj\Debug\MyPlugin1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ProfesyonelBackend\Plugin\MyPlugin1\obj\Debug\MyPlugin1.csproj.CopyComplete
+C:\Users\DELL\Desktop\ProfesyonelBackend\Plugin\MyPlugin1\obj\Debug\MyPlugin1.dll
+C:\Users\DELL\Desktop\ProfesyonelBackend\Plugin\MyPlugin1\obj\Debug\MyPlugin1.pdb

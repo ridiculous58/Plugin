@@ -1,0 +1,9 @@
+C:\Users\DELL\Desktop\ProfesyonelBackend\Plugin\PluginStart\bin\Debug\PluginStart.exe.config
+C:\Users\DELL\Desktop\ProfesyonelBackend\Plugin\PluginStart\bin\Debug\PluginStart.exe
+C:\Users\DELL\Desktop\ProfesyonelBackend\Plugin\PluginStart\bin\Debug\PluginStart.pdb
+C:\Users\DELL\Desktop\ProfesyonelBackend\Plugin\PluginStart\bin\Debug\Plugin.dll
+C:\Users\DELL\Desktop\ProfesyonelBackend\Plugin\PluginStart\bin\Debug\Plugin.pdb
+C:\Users\DELL\Desktop\ProfesyonelBackend\Plugin\PluginStart\obj\Debug\PluginStart.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ProfesyonelBackend\Plugin\PluginStart\obj\Debug\PluginStart.csproj.CopyComplete
+C:\Users\DELL\Desktop\ProfesyonelBackend\Plugin\PluginStart\obj\Debug\PluginStart.exe
+C:\Users\DELL\Desktop\ProfesyonelBackend\Plugin\PluginStart\obj\Debug\PluginStart.pdb
